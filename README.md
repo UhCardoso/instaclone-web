@@ -4,7 +4,7 @@ Projeto do Frontend em ReactJS onde foi refeito a interface do Instagram WEB, de
 Neste projeto eu adicionei uma funcionalidade extra no qual o usuário poderá comentar e visualizar os comentarios de cada foto em tempo real, utilizando a biblioteca *Socket.io*.
 
 [![](https://thumbs2.imgbox.com/ed/25/KYJQGBoT_t.png)](http://werlendev.cf/instaclone/)<br/>
-(clique na imagem para ver o site)
+(clique na imagem para ver o site) 
 
 ---
 ## Features do projeto
